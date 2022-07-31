@@ -1,7 +1,6 @@
 ## Project Title - Python Battleship Game
 ### Project Idea – The battleship game can be played in the command line.
 
-<b>Ma'am the objective given to me was:</b><br/>
 If the first ship is at location B, say (2,2), then the next ship can't be adjacent or diagonally adjacent to it.
 
 <b>Changes done are :</b><br/>
