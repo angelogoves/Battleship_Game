@@ -71,7 +71,6 @@ def count_hit_ships(board):
 def battleship(HIDDEN_BOARD, GUESS_BOARD):
     create_ships(HIDDEN_BOARD)
     turns = 11
-    print_board(HIDDEN_BOARD)
     while turns > 0:
         print('Guess a Battleship location')
         print_board(GUESS_BOARD)
